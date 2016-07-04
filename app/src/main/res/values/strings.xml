@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestProject1</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="item1">Delete</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
